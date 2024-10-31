@@ -1,0 +1,14 @@
+path : C:/Users/Mahdi/Desktop/iot/projet
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names: ['fire', 'smoke']
+
+roboflow:
+  workspace: iot-7d4ka
+  project: firesmoke-jqkgo
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/iot-7d4ka/firesmoke-jqkgo/dataset/1
