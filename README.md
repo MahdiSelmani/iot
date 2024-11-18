@@ -8,7 +8,7 @@ To run this project, you need the following:
 
 - Python: Make sure you have Python installed on your system.
 
-- Ultralytics YOLOv8: This project uses the Ultralytics YOLOv5 model for object detection. You can install it using pip:
+- Ultralytics YOLOv8: This project uses the Ultralytics YOLOv8 model for object detection. You can install it using pip:
   ```bash
   pip install ultralytics
 
