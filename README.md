@@ -10,7 +10,7 @@ To run this project, you need the following:
 
 - Ultralytics YOLOv8: This project uses the Ultralytics YOLOv8 model for object detection. You can install it using pip:
   ```bash
-  pip install ultralytics
+  pip install ultralytics paho-mqtt
 
 - CLone locally :
   ```bash

@@ -13,7 +13,7 @@ custom_model_path = './runs/detect/train/weights/best.pt'
 fire_smoke_model = YOLO(custom_model_path)
 
 # Définir le seuil de confiance
-threshold = 0.2
+threshold = 0.6
 
 # Initialiser MQTT
 BROKER = "localhost"
