@@ -22,7 +22,7 @@ To run this project, you need the following:
   cd project && python fireAndSmokeDetection.py
   ```
 
-  Run detection program :
+  Run web application and access on localhost:5001/dashboard :
   ```bash
   cd server && python server.py
   ```
