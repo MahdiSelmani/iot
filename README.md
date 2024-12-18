@@ -10,13 +10,19 @@ To run this project, you need the following:
 
 - Ultralytics YOLOv8: This project uses the Ultralytics YOLOv8 model for object detection. You can install it using pip:
   ```bash
-  pip install ultralytics paho-mqtt
+  pip install ultralytics paho-mqtt flask
 
 - CLone locally :
   ```bash
   git clone https://github.com/MahdiSelmani/iot.git
 
 ## Run
+  Run detection program :
   ```bash
-  python fireAndSmokeDetection.py
+  cd project && python fireAndSmokeDetection.py
+  ```
 
+  Run detection program :
+  ```bash
+  cd server && python server.py
+  ```
