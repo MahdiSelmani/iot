@@ -7,8 +7,8 @@ This project implements a fire and smoke detection system using Python and the U
 To run this project, you need the following:
 
 - Python: Make sure you have Python installed on your system.
-
 - Ultralytics YOLOv8: This project uses the Ultralytics YOLOv8 model for object detection. You can install it using pip:
+- Paho-mqtt: Used to ensure connection to hivemq
   ```bash
   pip install ultralytics paho-mqtt flask
 
