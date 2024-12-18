@@ -8,7 +8,9 @@ To run this project, you need the following:
 
 - Python: Make sure you have Python installed on your system.
 - Ultralytics YOLOv8: This project uses the Ultralytics YOLOv8 model for object detection. You can install it using pip:
-- Paho-mqtt: Used to ensure connection to hivemq
+- Paho-mqtt: Used to ensure connection to hiveMQ.
+- Flask: Used to create the web server.
+  
   ```bash
   pip install ultralytics paho-mqtt flask
 
